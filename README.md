@@ -16,7 +16,7 @@
 
 ## 🌐 Live Demo
 
-**[https://yourusername.github.io/finreport/](https://yourusername.github.io/finreport/)**
+**[https://tushar763-max.github.io/Finance-Report-/](https://tushar763-max.github.io/Finance-Report-/)**
 *(Replace with your actual GitHub Pages URL)*
 
 ---
@@ -324,7 +324,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgements
 
-- Built with the help of [Claude by Anthropic](https://claude.ai)
 - Charts powered by [Chart.js](https://www.chartjs.org/)
 - Icons generated at [favicon.io](https://favicon.io/)
 
@@ -332,7 +331,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made with ❤️ by [yourusername](https://github.com/yourusername)
+Made with ❤️ by [Tushar Jarwal](https://github.com/Tushar763-max)
 
 ⭐ Star this repo if you found it useful!
 
