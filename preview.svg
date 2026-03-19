@@ -1,0 +1,370 @@
+<svg viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, system-ui, sans-serif">
+
+  <!-- Background -->
+  <rect width="900" height="620" fill="#f5f6fa" rx="12"/>
+
+  <!-- Hero Banner -->
+  <rect x="20" y="16" width="860" height="80" fill="#185FA5" rx="10"/>
+  <text x="450" y="46" text-anchor="middle" font-size="22" font-weight="600" fill="#fff">💰 FinReport</text>
+  <text x="450" y="68" text-anchor="middle" font-size="12" fill="rgba(255,255,255,0.8)">Monthly Financial Report Generator — Track, Analyze &amp; Grow</text>
+  <rect x="295" y="78" width="60" height="12" fill="rgba(255,255,255,0.2)" rx="6"/>
+  <text x="325" y="88" text-anchor="middle" font-size="8" fill="#fff">HTML5</text>
+  <rect x="362" y="78" width="55" height="12" fill="rgba(255,255,255,0.2)" rx="6"/>
+  <text x="389" y="88" text-anchor="middle" font-size="8" fill="#fff">Chart.js</text>
+  <rect x="424" y="78" width="40" height="12" fill="rgba(255,255,255,0.2)" rx="6"/>
+  <text x="444" y="88" text-anchor="middle" font-size="8" fill="#fff">PWA</text>
+  <rect x="471" y="78" width="80" height="12" fill="rgba(255,255,255,0.2)" rx="6"/>
+  <text x="511" y="88" text-anchor="middle" font-size="8" fill="#fff">Open Source</text>
+  <rect x="558" y="78" width="65" height="12" fill="rgba(255,255,255,0.2)" rx="6"/>
+  <text x="590" y="88" text-anchor="middle" font-size="8" fill="#fff">No Backend</text>
+
+  <!-- SCREEN 1: LOGIN -->
+  <rect x="20" y="110" width="134" height="180" fill="#fff" rx="8" stroke="#e0e0e0" stroke-width="0.5"/>
+  <rect x="20" y="110" width="134" height="22" fill="#185FA5" rx="8"/>
+  <rect x="20" y="124" width="134" height="8" fill="#185FA5"/>
+  <text x="87" y="125" text-anchor="middle" font-size="9" font-weight="500" fill="#fff">FinReport</text>
+  <text x="87" y="148" text-anchor="middle" font-size="9" font-weight="600" fill="#185FA5">FinReport</text>
+  <text x="87" y="159" text-anchor="middle" font-size="7" fill="#5a6080">Your personal finance dashboard</text>
+  <rect x="32" y="164" width="110" height="14" fill="#E6F1FB" rx="4" stroke="#185FA5" stroke-width="1"/>
+  <text x="87" y="174" text-anchor="middle" font-size="8" font-weight="500" fill="#185FA5">👤 Continue as Guest</text>
+  <text x="87" y="188" text-anchor="middle" font-size="7" fill="#9198b5">— or sign in —</text>
+  <rect x="32" y="192" width="52" height="10" fill="#185FA5" rx="3"/>
+  <text x="58" y="200" text-anchor="middle" font-size="7" fill="#fff">Sign In</text>
+  <rect x="88" y="192" width="54" height="10" fill="#f0f2f8" rx="3"/>
+  <text x="115" y="200" text-anchor="middle" font-size="7" fill="#5a6080">Sign Up</text>
+  <text x="35" y="214" font-size="7" fill="#5a6080">Email</text>
+  <rect x="32" y="217" width="110" height="10" fill="#f0f2f8" rx="3" stroke="#d0d0d0" stroke-width="0.5"/>
+  <text x="35" y="232" font-size="7" fill="#5a6080">Password</text>
+  <rect x="32" y="235" width="110" height="10" fill="#f0f2f8" rx="3" stroke="#d0d0d0" stroke-width="0.5"/>
+  <rect x="32" y="250" width="110" height="12" fill="#185FA5" rx="4"/>
+  <text x="87" y="259" text-anchor="middle" font-size="8" font-weight="500" fill="#fff">Sign In</text>
+  <text x="87" y="282" text-anchor="middle" font-size="8" font-weight="500" fill="#5a6080">Login</text>
+
+  <!-- SCREEN 2: OVERVIEW -->
+  <rect x="164" y="110" width="210" height="180" fill="#fff" rx="8" stroke="#e0e0e0" stroke-width="0.5"/>
+  <rect x="164" y="110" width="210" height="22" fill="#185FA5" rx="8"/>
+  <rect x="164" y="124" width="210" height="8" fill="#185FA5"/>
+  <text x="224" y="125" text-anchor="middle" font-size="9" font-weight="500" fill="#fff">FinReport</text>
+  <text x="340" y="125" text-anchor="middle" font-size="9" fill="#fff">⬇ 📊 👤</text>
+  <!-- Metrics -->
+  <rect x="168" y="136" width="48" height="26" fill="#f0f2f8" rx="4"/>
+  <text x="192" y="146" text-anchor="middle" font-size="7" fill="#5a6080">Income</text>
+  <text x="192" y="157" text-anchor="middle" font-size="9" font-weight="600" fill="#185FA5">$6,500</text>
+  <rect x="220" y="136" width="48" height="26" fill="#f0f2f8" rx="4"/>
+  <text x="244" y="146" text-anchor="middle" font-size="7" fill="#5a6080">Expenses</text>
+  <text x="244" y="157" text-anchor="middle" font-size="9" font-weight="600" fill="#A32D2D">$2,445</text>
+  <rect x="272" y="136" width="48" height="26" fill="#f0f2f8" rx="4"/>
+  <text x="296" y="146" text-anchor="middle" font-size="7" fill="#5a6080">Savings</text>
+  <text x="296" y="157" text-anchor="middle" font-size="9" font-weight="600" fill="#3B6D11">$4,055</text>
+  <rect x="324" y="136" width="46" height="26" fill="#f0f2f8" rx="4"/>
+  <text x="347" y="146" text-anchor="middle" font-size="7" fill="#5a6080">Score</text>
+  <text x="347" y="157" text-anchor="middle" font-size="9" font-weight="600" fill="#639922">82</text>
+  <!-- Bar chart mini -->
+  <rect x="168" y="168" width="96" height="56" fill="#f0f2f8" rx="4"/>
+  <text x="216" y="177" text-anchor="middle" font-size="7" fill="#5a6080">Income vs Expenses</text>
+  <rect x="180" y="195" width="16" height="22" fill="#185FA5" rx="2"/>
+  <rect x="202" y="204" width="16" height="13" fill="#E24B4A" rx="2"/>
+  <rect x="224" y="186" width="16" height="31" fill="#639922" rx="2"/>
+  <text x="188" y="223" text-anchor="middle" font-size="6" fill="#5a6080">Inc</text>
+  <text x="210" y="223" text-anchor="middle" font-size="6" fill="#5a6080">Exp</text>
+  <text x="232" y="223" text-anchor="middle" font-size="6" fill="#5a6080">Sav</text>
+  <!-- Donut -->
+  <rect x="270" y="168" width="100" height="56" fill="#f0f2f8" rx="4"/>
+  <text x="320" y="177" text-anchor="middle" font-size="7" fill="#5a6080">Expense Breakdown</text>
+  <circle cx="305" cy="200" r="14" fill="none" stroke="#185FA5" stroke-width="8" stroke-dasharray="35 53"/>
+  <circle cx="305" cy="200" r="14" fill="none" stroke="#3B6D11" stroke-width="8" stroke-dasharray="10 78" stroke-dashoffset="-35"/>
+  <circle cx="305" cy="200" r="14" fill="none" stroke="#BA7517" stroke-width="8" stroke-dasharray="8 80" stroke-dashoffset="-45"/>
+  <circle cx="305" cy="200" r="14" fill="none" stroke="#7F77DD" stroke-width="8" stroke-dasharray="5 83" stroke-dashoffset="-53"/>
+  <rect x="323" y="188" width="6" height="6" fill="#185FA5" rx="1"/>
+  <text x="332" y="194" font-size="7" fill="#5a6080">Housing</text>
+  <rect x="323" y="198" width="6" height="6" fill="#3B6D11" rx="1"/>
+  <text x="332" y="204" font-size="7" fill="#5a6080">Food</text>
+  <rect x="323" y="208" width="6" height="6" fill="#7F77DD" rx="1"/>
+  <text x="332" y="214" font-size="7" fill="#5a6080">Other</text>
+  <!-- Line chart -->
+  <rect x="168" y="228" width="202" height="38" fill="#f0f2f8" rx="4"/>
+  <text x="269" y="237" text-anchor="middle" font-size="7" fill="#5a6080">6-Month Trend</text>
+  <polyline points="178,258 196,252 214,255 232,248 250,250 268,244" fill="none" stroke="#185FA5" stroke-width="1.5" stroke-linecap="round"/>
+  <polyline points="178,262 196,260 214,264 232,258 250,261 268,256" fill="none" stroke="#E24B4A" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="269" y="282" text-anchor="middle" font-size="8" font-weight="500" fill="#5a6080">Overview</text>
+
+  <!-- SCREEN 3: GOALS -->
+  <rect x="384" y="110" width="150" height="180" fill="#fff" rx="8" stroke="#e0e0e0" stroke-width="0.5"/>
+  <rect x="384" y="110" width="150" height="22" fill="#185FA5" rx="8"/>
+  <rect x="384" y="124" width="150" height="8" fill="#185FA5"/>
+  <text x="459" y="125" text-anchor="middle" font-size="9" font-weight="500" fill="#fff">FinReport</text>
+  <!-- Tabs -->
+  <text x="400" y="142" font-size="7" fill="#9198b5">Overview</text>
+  <text x="430" y="142" font-size="7" fill="#185FA5" font-weight="500">Goals</text>
+  <line x1="428" y1="144" x2="452" y2="144" stroke="#185FA5" stroke-width="1.5"/>
+  <text x="464" y="142" font-size="7" fill="#9198b5">Debt</text>
+  <line x1="386" y1="146" x2="530" y2="146" stroke="#e0e0e0" stroke-width="0.5"/>
+  <!-- Goal rows -->
+  <text x="390" y="158" font-size="8" font-weight="500" fill="#1a1d2e">Housing</text>
+  <rect x="488" y="151" width="40" height="10" fill="#EAF3DE" rx="3"/>
+  <text x="508" y="159" text-anchor="middle" font-size="7" font-weight="500" fill="#3B6D11">On track</text>
+  <text x="390" y="168" font-size="7" fill="#5a6080">$1,500 / $1,600 · 93%</text>
+  <rect x="390" y="171" width="140" height="5" fill="#e0e0e0" rx="2"/>
+  <rect x="390" y="171" width="130" height="5" fill="#639922" rx="2"/>
+
+  <text x="390" y="186" font-size="8" font-weight="500" fill="#1a1d2e">Food</text>
+  <rect x="488" y="179" width="44" height="10" fill="#FCEBEB" rx="3"/>
+  <text x="510" y="187" text-anchor="middle" font-size="7" font-weight="500" fill="#A32D2D">Over budget</text>
+  <text x="390" y="196" font-size="7" fill="#5a6080">$400 / $350 · 114%</text>
+  <rect x="390" y="199" width="140" height="5" fill="#e0e0e0" rx="2"/>
+  <rect x="390" y="199" width="140" height="5" fill="#E24B4A" rx="2"/>
+
+  <text x="390" y="214" font-size="8" font-weight="500" fill="#1a1d2e">Entertainment</text>
+  <rect x="474" y="207" width="40" height="10" fill="#EAF3DE" rx="3"/>
+  <text x="494" y="215" text-anchor="middle" font-size="7" font-weight="500" fill="#3B6D11">On track</text>
+  <text x="390" y="224" font-size="7" fill="#5a6080">$25 / $50 · 50%</text>
+  <rect x="390" y="227" width="140" height="5" fill="#e0e0e0" rx="2"/>
+  <rect x="390" y="227" width="70" height="5" fill="#639922" rx="2"/>
+
+  <text x="390" y="242" font-size="8" font-weight="500" fill="#1a1d2e">Transport</text>
+  <rect x="478" y="235" width="44" height="10" fill="#FAEEDA" rx="3"/>
+  <text x="500" y="243" text-anchor="middle" font-size="7" font-weight="500" fill="#854F0B">Caution</text>
+  <text x="390" y="252" font-size="7" fill="#5a6080">$350 / $400 · 87%</text>
+  <rect x="390" y="255" width="140" height="5" fill="#e0e0e0" rx="2"/>
+  <rect x="390" y="255" width="122" height="5" fill="#BA7517" rx="2"/>
+  <text x="459" y="282" text-anchor="middle" font-size="8" font-weight="500" fill="#5a6080">Budget Goals</text>
+
+  <!-- SCREEN 4: DEBT -->
+  <rect x="544" y="110" width="160" height="180" fill="#fff" rx="8" stroke="#e0e0e0" stroke-width="0.5"/>
+  <rect x="544" y="110" width="160" height="22" fill="#185FA5" rx="8"/>
+  <rect x="544" y="124" width="160" height="8" fill="#185FA5"/>
+  <text x="624" y="125" text-anchor="middle" font-size="9" font-weight="500" fill="#fff">FinReport</text>
+  <text x="554" y="142" font-size="7" fill="#9198b5">Bills</text>
+  <text x="574" y="142" font-size="7" fill="#185FA5" font-weight="500">Debt</text>
+  <line x1="572" y1="144" x2="592" y2="144" stroke="#185FA5" stroke-width="1.5"/>
+  <text x="600" y="142" font-size="7" fill="#9198b5">Analytics</text>
+  <line x1="546" y1="146" x2="700" y2="146" stroke="#e0e0e0" stroke-width="0.5"/>
+  <!-- Debt items -->
+  <text x="550" y="159" font-size="9" font-weight="500" fill="#1a1d2e">Car Loan</text>
+  <rect x="644" y="152" width="54" height="10" fill="#FCEBEB" rx="3"/>
+  <text x="671" y="160" text-anchor="middle" font-size="7" font-weight="500" fill="#A32D2D">$8,500 left</text>
+  <text x="550" y="169" font-size="7" fill="#5a6080">$15,000 total · 8%/yr · ~$266/mo</text>
+  <rect x="550" y="173" width="148" height="5" fill="#e0e0e0" rx="2"/>
+  <rect x="550" y="173" width="64" height="5" fill="#185FA5" rx="2"/>
+  <text x="550" y="183" font-size="7" fill="#9198b5">43% paid off</text>
+
+  <line x1="546" y1="188" x2="700" y2="188" stroke="#e0e0e0" stroke-width="0.5"/>
+
+  <text x="550" y="199" font-size="9" font-weight="500" fill="#1a1d2e">Credit Card</text>
+  <rect x="644" y="192" width="54" height="10" fill="#FCEBEB" rx="3"/>
+  <text x="671" y="200" text-anchor="middle" font-size="7" font-weight="500" fill="#A32D2D">$1,200 left</text>
+  <text x="550" y="209" font-size="7" fill="#5a6080">$3,000 total · 18%/yr · ~$43/mo</text>
+  <rect x="550" y="213" width="148" height="5" fill="#e0e0e0" rx="2"/>
+  <rect x="550" y="213" width="89" height="5" fill="#185FA5" rx="2"/>
+  <text x="550" y="223" font-size="7" fill="#9198b5">60% paid off</text>
+
+  <!-- Stacked bar chart mini -->
+  <rect x="550" y="230" width="148" height="36" fill="#f0f2f8" rx="4"/>
+  <text x="624" y="239" text-anchor="middle" font-size="7" fill="#5a6080">Debt Overview</text>
+  <rect x="562" y="244" width="30" height="14" fill="#E24B4A" rx="2"/>
+  <rect x="562" y="244" width="30" height="8" fill="#639922" rx="2" transform="translate(0,6)"/>
+  <rect x="604" y="244" width="20" height="14" fill="#E24B4A" rx="2"/>
+  <rect x="604" y="244" width="20" height="8" fill="#639922" rx="2" transform="translate(0,6)"/>
+  <text x="624" y="282" text-anchor="middle" font-size="8" font-weight="500" fill="#5a6080">Debt Tracker</text>
+
+  <!-- SCREEN 5: AI INSIGHTS -->
+  <rect x="714" y="110" width="166" height="180" fill="#fff" rx="8" stroke="#e0e0e0" stroke-width="0.5"/>
+  <rect x="714" y="110" width="166" height="22" fill="#185FA5" rx="8"/>
+  <rect x="714" y="124" width="166" height="8" fill="#185FA5"/>
+  <text x="797" y="125" text-anchor="middle" font-size="9" font-weight="500" fill="#fff">FinReport</text>
+  <text x="720" y="142" font-size="7" fill="#185FA5" font-weight="500">Analytics</text>
+  <line x1="718" y1="144" x2="756" y2="144" stroke="#185FA5" stroke-width="1.5"/>
+  <text x="762" y="142" font-size="7" fill="#9198b5">Tools</text>
+  <line x1="716" y1="146" x2="876" y2="146" stroke="#e0e0e0" stroke-width="0.5"/>
+  <!-- AI insight cards -->
+  <rect x="718" y="150" width="158" height="24" fill="#EEEDFE" rx="4" stroke="#534AB7" stroke-width="0.5"/>
+  <text x="724" y="161" font-size="8" font-weight="500" fill="#534AB7">✅ Excellent Savings Rate</text>
+  <text x="724" y="170" font-size="7" fill="#5a6080">Saving 62% of income. Keep investing!</text>
+  <rect x="718" y="178" width="158" height="24" fill="#EEEDFE" rx="4" stroke="#534AB7" stroke-width="0.5"/>
+  <text x="724" y="189" font-size="8" font-weight="500" fill="#534AB7">🔴 Budget Exceeded</text>
+  <text x="724" y="198" font-size="7" fill="#5a6080">Over budget in: Food. Review spending.</text>
+  <rect x="718" y="206" width="158" height="24" fill="#EEEDFE" rx="4" stroke="#534AB7" stroke-width="0.5"/>
+  <text x="724" y="217" font-size="8" font-weight="500" fill="#534AB7">💳 Debt Management</text>
+  <text x="724" y="226" font-size="7" fill="#5a6080">Pay credit card first — 18% interest.</text>
+  <!-- Health score ring -->
+  <circle cx="740" cy="258" r="16" fill="none" stroke="#e0e0e0" stroke-width="6"/>
+  <circle cx="740" cy="258" r="16" fill="none" stroke="#639922" stroke-width="6" stroke-dasharray="82 18" stroke-dashoffset="25" stroke-linecap="round"/>
+  <text x="740" y="262" text-anchor="middle" font-size="9" font-weight="600" fill="#639922">82</text>
+  <rect x="762" y="250" width="44" height="12" fill="#EAF3DE" rx="4"/>
+  <text x="784" y="259" text-anchor="middle" font-size="8" font-weight="500" fill="#3B6D11">Excellent</text>
+  <text x="762" y="272" font-size="7" fill="#5a6080">Savings: 30/30</text>
+  <text x="762" y="280" font-size="7" fill="#5a6080">Budget: 25/25</text>
+  <text x="797" y="282" text-anchor="middle" font-size="8" font-weight="500" fill="#5a6080">AI Insights</text>
+
+  <!-- SCREEN ROW 2 -->
+
+  <!-- SCREEN 6: BILLS -->
+  <rect x="20" y="300" width="190" height="160" fill="#fff" rx="8" stroke="#e0e0e0" stroke-width="0.5"/>
+  <rect x="20" y="300" width="190" height="22" fill="#185FA5" rx="8"/>
+  <rect x="20" y="314" width="190" height="8" fill="#185FA5"/>
+  <text x="115" y="315" text-anchor="middle" font-size="9" font-weight="500" fill="#fff">FinReport</text>
+  <text x="30" y="332" font-size="7" fill="#185FA5" font-weight="500">Bill Reminders</text>
+  <line x1="28" y1="334" x2="102" y2="334" stroke="#185FA5" stroke-width="1.5"/>
+  <line x1="22" y1="336" x2="206" y2="336" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="26" y="348" font-size="9" font-weight="500" fill="#1a1d2e">Netflix</text>
+  <rect x="120" y="341" width="34" height="10" fill="#FAEEDA" rx="3"/>
+  <text x="137" y="349" text-anchor="middle" font-size="7" fill="#854F0B">Due in 2d</text>
+  <text x="165" y="349" text-anchor="middle" font-size="9" font-weight="500" fill="#1a1d2e">$15</text>
+  <text x="26" y="358" font-size="7" fill="#5a6080">2026-03-25 · Entertainment</text>
+  <line x1="22" y1="362" x2="206" y2="362" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="26" y="374" font-size="9" font-weight="500" fill="#1a1d2e">Electricity</text>
+  <rect x="120" y="367" width="34" height="10" fill="#FAEEDA" rx="3"/>
+  <text x="137" y="375" text-anchor="middle" font-size="7" fill="#854F0B">Due in 5d</text>
+  <text x="165" y="375" text-anchor="middle" font-size="9" font-weight="500" fill="#1a1d2e">$120</text>
+  <text x="26" y="384" font-size="7" fill="#5a6080">2026-03-28 · Utilities</text>
+  <line x1="22" y1="388" x2="206" y2="388" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="26" y="400" font-size="9" font-weight="500" fill="#1a1d2e">Internet</text>
+  <rect x="120" y="393" width="44" height="10" fill="#EAF3DE" rx="3"/>
+  <text x="142" y="401" text-anchor="middle" font-size="7" fill="#3B6D11">Due in 11d</text>
+  <text x="175" y="401" text-anchor="middle" font-size="9" font-weight="500" fill="#1a1d2e">$50</text>
+  <text x="26" y="410" font-size="7" fill="#5a6080">2026-03-30 · Utilities</text>
+  <text x="115" y="452" text-anchor="middle" font-size="8" font-weight="500" fill="#5a6080">Bill Reminders</text>
+
+  <!-- SCREEN 7: TOOLS (Currency + Receipt) -->
+  <rect x="220" y="300" width="240" height="160" fill="#fff" rx="8" stroke="#e0e0e0" stroke-width="0.5"/>
+  <rect x="220" y="300" width="240" height="22" fill="#185FA5" rx="8"/>
+  <rect x="220" y="314" width="240" height="8" fill="#185FA5"/>
+  <text x="340" y="315" text-anchor="middle" font-size="9" font-weight="500" fill="#fff">FinReport</text>
+  <text x="228" y="332" font-size="7" fill="#9198b5">Analytics</text>
+  <text x="268" y="332" font-size="7" fill="#185FA5" font-weight="500">Tools</text>
+  <line x1="266" y1="334" x2="288" y2="334" stroke="#185FA5" stroke-width="1.5"/>
+  <line x1="222" y1="336" x2="456" y2="336" stroke="#e0e0e0" stroke-width="0.5"/>
+  <!-- Currency converter -->
+  <text x="228" y="348" font-size="8" font-weight="500" fill="#1a1d2e">💱 Currency Converter</text>
+  <rect x="228" y="351" width="68" height="14" fill="#f0f2f8" rx="3"/>
+  <text x="262" y="361" text-anchor="middle" font-size="8" fill="#1a1d2e">100  USD</text>
+  <text x="310" y="362" text-anchor="middle" font-size="12" fill="#9198b5">→</text>
+  <rect x="322" y="351" width="50" height="14" fill="#f0f2f8" rx="3"/>
+  <text x="347" y="361" text-anchor="middle" font-size="8" fill="#1a1d2e">INR</text>
+  <rect x="380" y="353" width="50" height="10" fill="#185FA5" rx="3"/>
+  <text x="405" y="361" text-anchor="middle" font-size="8" fill="#fff">Convert</text>
+  <rect x="228" y="370" width="222" height="18" fill="#f0f2f8" rx="4"/>
+  <text x="339" y="382" text-anchor="middle" font-size="9" font-weight="500" fill="#1a1d2e">100 USD = 8,350.00 INR</text>
+  <!-- Receipt scanner -->
+  <text x="228" y="400" font-size="8" font-weight="500" fill="#1a1d2e">📷 Receipt Scanner</text>
+  <rect x="228" y="404" width="222" height="30" fill="#f8f8f8" rx="4" stroke="#d0d0d0" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="339" y="416" text-anchor="middle" font-size="9" fill="#9198b5">📄 Click to upload receipt</text>
+  <text x="339" y="427" text-anchor="middle" font-size="7" fill="#9198b5">JPG, PNG supported</text>
+  <text x="340" y="452" text-anchor="middle" font-size="8" font-weight="500" fill="#5a6080">Tools</text>
+
+  <!-- SCREEN 8: SETTINGS -->
+  <rect x="470" y="300" width="190" height="160" fill="#fff" rx="8" stroke="#e0e0e0" stroke-width="0.5"/>
+  <rect x="470" y="300" width="190" height="22" fill="#185FA5" rx="8"/>
+  <rect x="470" y="314" width="190" height="8" fill="#185FA5"/>
+  <text x="555" y="315" text-anchor="middle" font-size="9" font-weight="500" fill="#fff">FinReport</text>
+  <rect x="472" y="322" width="186" height="138" fill="#fff" rx="0 0 8 8"/>
+  <rect x="472" y="322" width="186" height="16" fill="#f0f2f8"/>
+  <text x="480" y="333" font-size="9" font-weight="500" fill="#1a1d2e">⚙️ Settings</text>
+  <text x="473" y="348" font-size="7" fill="#9198b5" font-weight="600">CURRENCY &amp; LANGUAGE</text>
+  <text x="476" y="360" font-size="8" fill="#1a1d2e">Currency</text>
+  <rect x="534" y="353" width="34" height="10" fill="#f0f2f8" rx="3" stroke="#d0d0d0" stroke-width="0.5"/>
+  <text x="551" y="361" text-anchor="middle" font-size="7" fill="#1a1d2e">$ USD</text>
+  <line x1="472" y1="365" x2="658" y2="365" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="473" y="376" font-size="7" fill="#9198b5" font-weight="600">APPEARANCE</text>
+  <text x="476" y="388" font-size="8" fill="#1a1d2e">Dark Mode</text>
+  <rect x="628" y="381" width="22" height="12" fill="#185FA5" rx="6"/>
+  <circle cx="642" cy="387" r="4" fill="#fff"/>
+  <line x1="472" y1="396" x2="658" y2="396" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="473" y="407" font-size="7" fill="#9198b5" font-weight="600">SECURITY</text>
+  <text x="476" y="419" font-size="8" fill="#1a1d2e">PIN Lock</text>
+  <rect x="628" y="412" width="22" height="12" fill="#d0d0d0" rx="6"/>
+  <circle cx="632" cy="418" r="4" fill="#fff"/>
+  <line x1="472" y1="424" x2="658" y2="424" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="476" y="436" font-size="8" fill="#1a1d2e">Budget Alerts</text>
+  <rect x="628" y="429" width="22" height="12" fill="#185FA5" rx="6"/>
+  <circle cx="642" cy="435" r="4" fill="#fff"/>
+  <text x="555" y="452" text-anchor="middle" font-size="8" font-weight="500" fill="#5a6080">Settings</text>
+
+  <!-- SCREEN 9: SUMMARY -->
+  <rect x="670" y="300" width="210" height="160" fill="#fff" rx="8" stroke="#e0e0e0" stroke-width="0.5"/>
+  <rect x="670" y="300" width="210" height="22" fill="#185FA5" rx="8"/>
+  <rect x="670" y="314" width="210" height="8" fill="#185FA5"/>
+  <text x="775" y="315" text-anchor="middle" font-size="9" font-weight="500" fill="#fff">FinReport</text>
+  <text x="676" y="332" font-size="7" fill="#185FA5" font-weight="500">Summary</text>
+  <line x1="674" y1="334" x2="720" y2="334" stroke="#185FA5" stroke-width="1.5"/>
+  <line x1="672" y1="336" x2="876" y2="336" stroke="#e0e0e0" stroke-width="0.5"/>
+  <rect x="676" y="340" width="48" height="12" fill="#3B6D11" rx="3"/>
+  <text x="700" y="349" text-anchor="middle" font-size="7" fill="#fff">Download CSV</text>
+  <rect x="730" y="340" width="34" height="12" fill="#f0f2f8" rx="3" stroke="#d0d0d0" stroke-width="0.5"/>
+  <text x="747" y="349" text-anchor="middle" font-size="7" fill="#1a1d2e">🖨 Print</text>
+  <rect x="676" y="357" width="198" height="55" fill="#f0f2f8" rx="4"/>
+  <text x="775" y="368" text-anchor="middle" font-size="8" font-weight="500" fill="#1a1d2e">Report for March 2026 — Guest</text>
+  <text x="682" y="378" font-size="7" fill="#5a6080">Total income: $6,500 across 3 sources.</text>
+  <text x="682" y="388" font-size="7" fill="#5a6080">Total expenses: $2,445 across 6 items.</text>
+  <text x="682" y="398" font-size="7" fill="#3B6D11">Net savings: $4,055 — rate 62%.</text>
+  <text x="682" y="408" font-size="7" fill="#3B6D11">✅ All budget goals on track.</text>
+  <!-- Transactions table -->
+  <rect x="676" y="416" width="198" height="34" fill="#f0f2f8" rx="4"/>
+  <text x="682" y="426" font-size="7" font-weight="500" fill="#5a6080">Type</text>
+  <text x="706" y="426" font-size="7" font-weight="500" fill="#5a6080">Description</text>
+  <text x="830" y="426" font-size="7" font-weight="500" fill="#5a6080">Amount</text>
+  <line x1="676" y1="428" x2="874" y2="428" stroke="#d0d0d0" stroke-width="0.5"/>
+  <rect x="678" y="431" width="22" height="8" fill="#EAF3DE" rx="2"/>
+  <text x="689" y="437" text-anchor="middle" font-size="6" fill="#3B6D11">Income</text>
+  <text x="706" y="437" font-size="7" fill="#1a1d2e">Salary</text>
+  <text x="870" y="437" text-anchor="end" font-size="7" fill="#3B6D11">+$5,000</text>
+  <line x1="676" y1="440" x2="874" y2="440" stroke="#d0d0d0" stroke-width="0.5"/>
+  <rect x="678" y="443" width="24" height="8" fill="#FCEBEB" rx="2"/>
+  <text x="690" y="449" text-anchor="middle" font-size="6" fill="#A32D2D">Expense</text>
+  <text x="706" y="449" font-size="7" fill="#1a1d2e">Rent</text>
+  <text x="870" y="449" text-anchor="end" font-size="7" fill="#A32D2D">-$1,500</text>
+  <text x="775" y="470" text-anchor="middle" font-size="8" font-weight="500" fill="#5a6080">Summary &amp; Export</text>
+
+  <!-- BOTTOM FEATURES ROW -->
+  <rect x="20" y="472" width="860" height="132" fill="#fff" rx="8" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="450" y="492" text-anchor="middle" font-size="11" font-weight="600" fill="#1a1d2e">✨ All Features</text>
+
+  <!-- Feature chips -->
+  <rect x="30" y="500" width="88" height="18" fill="#E6F1FB" rx="9"/>
+  <text x="74" y="512" text-anchor="middle" font-size="8" fill="#185FA5">📊 Overview Dashboard</text>
+  <rect x="124" y="500" width="74" height="18" fill="#EAF3DE" rx="9"/>
+  <text x="161" y="512" text-anchor="middle" font-size="8" fill="#3B6D11">🎯 Budget Goals</text>
+  <rect x="204" y="500" width="70" height="18" fill="#FCEBEB" rx="9"/>
+  <text x="239" y="512" text-anchor="middle" font-size="8" fill="#A32D2D">💳 Debt Tracker</text>
+  <rect x="280" y="500" width="76" height="18" fill="#FAEEDA" rx="9"/>
+  <text x="318" y="512" text-anchor="middle" font-size="8" fill="#854F0B">📅 Bill Reminders</text>
+  <rect x="362" y="500" width="70" height="18" fill="#EEEDFE" rx="9"/>
+  <text x="397" y="512" text-anchor="middle" font-size="8" fill="#534AB7">🤖 AI Insights</text>
+  <rect x="438" y="500" width="72" height="18" fill="#EAF3DE" rx="9"/>
+  <text x="474" y="512" text-anchor="middle" font-size="8" fill="#3B6D11">💯 Health Score</text>
+  <rect x="516" y="500" width="80" height="18" fill="#E6F1FB" rx="9"/>
+  <text x="556" y="512" text-anchor="middle" font-size="8" fill="#185FA5">💱 Currency Converter</text>
+  <rect x="602" y="500" width="70" height="18" fill="#FAEEDA" rx="9"/>
+  <text x="637" y="512" text-anchor="middle" font-size="8" fill="#854F0B">📷 Receipt Scan</text>
+  <rect x="678" y="500" width="78" height="18" fill="#EEEDFE" rx="9"/>
+  <text x="717" y="512" text-anchor="middle" font-size="8" fill="#534AB7">📈 Projections</text>
+  <rect x="762" y="500" width="70" height="18" fill="#EAF3DE" rx="9"/>
+  <text x="797" y="512" text-anchor="middle" font-size="8" fill="#3B6D11">📋 CSV Export</text>
+
+  <rect x="30" y="524" width="64" height="18" fill="#f0f2f8" rx="9"/>
+  <text x="62" y="536" text-anchor="middle" font-size="8" fill="#5a6080">🌙 Dark Mode</text>
+  <rect x="100" y="524" width="60" height="18" fill="#f0f2f8" rx="9"/>
+  <text x="130" y="536" text-anchor="middle" font-size="8" fill="#5a6080">🔐 PIN Lock</text>
+  <rect x="166" y="524" width="92" height="18" fill="#f0f2f8" rx="9"/>
+  <text x="212" y="536" text-anchor="middle" font-size="8" fill="#5a6080">💾 Backup &amp; Restore</text>
+  <rect x="264" y="524" width="76" height="18" fill="#f0f2f8" rx="9"/>
+  <text x="302" y="536" text-anchor="middle" font-size="8" fill="#5a6080">🏷 Custom Categories</text>
+  <rect x="346" y="524" width="68" height="18" fill="#f0f2f8" rx="9"/>
+  <text x="380" y="536" text-anchor="middle" font-size="8" fill="#5a6080">📱 PWA Support</text>
+  <rect x="420" y="524" width="68" height="18" fill="#f0f2f8" rx="9"/>
+  <text x="454" y="536" text-anchor="middle" font-size="8" fill="#5a6080">👤 Guest Mode</text>
+  <rect x="494" y="524" width="88" height="18" fill="#f0f2f8" rx="9"/>
+  <text x="538" y="536" text-anchor="middle" font-size="8" fill="#5a6080">📅 MoM Comparison</text>
+  <rect x="588" y="524" width="80" height="18" fill="#f0f2f8" rx="9"/>
+  <text x="628" y="536" text-anchor="middle" font-size="8" fill="#5a6080">🔁 Recurring Bills</text>
+  <rect x="674" y="524" width="80" height="18" fill="#f0f2f8" rx="9"/>
+  <text x="714" y="536" text-anchor="middle" font-size="8" fill="#5a6080">🖨 Print Report</text>
+
+  <!-- Tech stack -->
+  <line x1="30" y1="552" x2="870" y2="552" stroke="#e0e0e0" stroke-width="0.5"/>
+  <text x="450" y="567" text-anchor="middle" font-size="10" font-weight="500" fill="#5a6080">Built with HTML5 · CSS3 · Vanilla JavaScript · Chart.js · PWA · Single file · No backend required</text>
+
+  <!-- Footer -->
+  <text x="450" y="590" text-anchor="middle" font-size="9" fill="#9198b5">⭐ Star this repo if you found it helpful! · Made with ❤️ using Claude by Anthropic</text>
+
+</svg>
